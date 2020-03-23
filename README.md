@@ -1,4 +1,4 @@
-# revit_model_unity_walkthrough
+# revit-model-unity-walkthrough
 
 + An Unity3D-based building walkthrough platform.
 
